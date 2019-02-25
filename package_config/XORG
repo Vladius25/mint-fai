@@ -1,0 +1,16 @@
+PACKAGES install DEBIAN
+xorg xserver-xorg-video-all xserver-xorg-input-all
+ttf-freefont
+xscreensaver
+xscreensaver-gl
+xterm
+desktop-base
+
+PACKAGES install MINT
+xorg xserver-xorg-video-all xserver-xorg-input-all
+fonts-freefont-ttf
+
+PACKAGES install UBUNTU
+ubuntu-server-
+ubuntu-standard
+ubuntu-desktop

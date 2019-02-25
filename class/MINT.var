@@ -1,0 +1,16 @@
+CONSOLEFONT=
+KEYMAP=us
+UTC=yes
+TIMEZONE=Asia/Yekaterinburg
+ROOTPW=\$6\$qqMxzIDr\$oGimKeB\/uo4gXnT\/YnV6xbQGvc8IgdLDwkk8dNgpZW8GOV5DBQRstA6Om8A.Igdn.PgEq.YbADtxvw6fljaR71
+
+MINTREPO=http://packages.linuxmint.com
+UBUNTUREPO=http://archive.ubuntu.com/ubuntu
+UBUNTUSECUR=http://security.ubuntu.com/ubuntu/
+UBUNTUCANON=http://archive.canonical.com/ubuntu/
+
+#MODULESLIST="usbhid psmouse"
+
+# if you have enough RAM (>2GB) you may want to enable this line. It
+# also puts /var/cache into a ramdisk.
+#FAI_RAMDISKS="$target/var/lib/dpkg $target/var/cache"
